@@ -6,7 +6,9 @@ Crack open a fortune cookie at any time!
 ## 💻 Built With
 
 📌 ReactJS
+
 📌 HTML
+
 📌 CSS
 
 ## 💻 GUI
